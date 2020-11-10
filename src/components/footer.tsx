@@ -3,8 +3,8 @@ import styles from "./footer.module.css";
 
 export default function Footer() {
     return <div className={styles.footer}>
-    <p>
-            Copyrights are reserved   
+        <p>
+            © 2020 Copyrights are reserved
     </p>
     </div>
 }
